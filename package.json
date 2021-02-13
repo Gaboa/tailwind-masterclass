@@ -4,7 +4,7 @@
   "description": "tailwind-masterclass",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "postcss src/css/main.css -o public/build/main.css"
   },
   "repository": {
     "type": "git",
