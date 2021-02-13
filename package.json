@@ -1,0 +1,25 @@
+{
+  "name": "tailwind-masterclass",
+  "version": "1.0.0",
+  "description": "tailwind-masterclass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaboa/tailwind-masterclass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaboa/tailwind-masterclass/issues"
+  },
+  "homepage": "https://github.com/Gaboa/tailwind-masterclass#readme",
+  "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.0.3"
+  }
+}
